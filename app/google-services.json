@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "165293688346",
+    "firebase_url": "https://fidarides-provider.firebaseio.com",
+    "project_id": "fidarides-provider",
+    "storage_bucket": "fidarides-provider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165293688346:android:fee2208f03f8825c",
+        "android_client_info": {
+          "package_name": "fidarides.eusopht.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165293688346-h6jcvjosdbci5fnajh7vjr4g96s8fhj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXeXXNIfie4wK3V6Bd2niMxB8GY2ksps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165293688346:android:53bd1de642465093",
+        "android_client_info": {
+          "package_name": "fidarides.eusopht.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165293688346-h6jcvjosdbci5fnajh7vjr4g96s8fhj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxXeXXNIfie4wK3V6Bd2niMxB8GY2ksps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_yourtrips"
+            android:title="@string/your_trips"
+            android:icon="@drawable/ncar"
+            />
+        <item
+            android:id="@+id/nav_earnings"
+            android:title="@string/earnings"
+            android:icon="@drawable/money"
+            />
+        <item
+            android:id="@+id/nav_wallet"
+            android:title="@string/summary"
+            android:icon="@drawable/passbook"
+            />
+        <item
+            android:id="@+id/nav_help"
+            android:title="@string/help"
+            android:icon="@drawable/help"
+            />
+        <item
+            android:id="@+id/nav_share"
+            android:title="@string/share"
+            android:icon="@drawable/share"
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/logout"
+            android:icon="@drawable/logout"
+            />
+    </group>
+
+</menu>

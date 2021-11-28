@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single">
+
+        <!--<item-->
+            <!--android:id="@+id/nav_payment"-->
+            <!--android:title="@string/action_payment"-->
+            <!--android:actionMenuTextColor="@color/colorAccent"-->
+            <!--/>-->
+
+        <item
+            android:id="@+id/nav_yourtrips"
+            android:title="@string/action_trips"
+            android:actionMenuTextColor="@color/colorAccent"
+            android:icon="@drawable/historytrips"
+            />
+        <item
+            android:id="@+id/nav_coupon"
+            android:title="@string/action_coupon"
+            android:icon="@drawable/coupon"
+            android:actionMenuTextColor="@color/colorAccent"
+            />
+        <!--<item-->
+            <!--android:id="@+id/nav_wallet"-->
+            <!--android:title="@string/action_wallet"-->
+            <!--android:actionMenuTextColor="@color/colorAccent"-->
+            <!--/>
+        <item
+            android:id="@+id/nav_ridelater"
+            android:title="Ride Later"
+            android:icon="@drawable/ridelater"
+            android:actionMenuTextColor="@color/colorAccent"
+            />-->
+
+        <item
+            android:id="@+id/freeride"
+            android:title="Free Ride"
+            android:actionMenuTextColor="@color/colorAccent"
+            android:icon="@drawable/freerides"
+            />
+
+
+        <item
+            android:id="@+id/settings"
+            android:title="@string/settings"
+            android:icon="@drawable/setting"
+            android:actionMenuTextColor="@color/colorAccent"
+            />
+        <item
+            android:id="@+id/nav_help"
+            android:title="@string/action_help"
+            android:icon="@drawable/help"
+            android:actionMenuTextColor="@color/colorAccent"
+            />
+        <!--<item
+            android:id="@+id/nav_share"
+            android:title="@string/action_share"
+            android:actionMenuTextColor="@color/colorAccent"
+            />-->
+      <!--  <item
+            android:id="@+id/nav_logout"
+            android:title="@string/action_logout"
+            android:actionMenuTextColor="@color/colorAccent"
+            />-->
+
+    </group>
+</menu>

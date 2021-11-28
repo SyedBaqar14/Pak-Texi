@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/text_color_white"
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/paktaxi_launcher"
+        android:paddingBottom="330dp"
+        android:paddingTop="@dimen/_200sdp"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>
